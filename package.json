@@ -1,0 +1,15 @@
+{
+  "name": "nodehw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hw.js",
+  "scripts": {
+    "start": "node hw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeeRay",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
